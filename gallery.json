@@ -1,0 +1,14 @@
+{
+    "images_data_file": "./images_data.json",
+    "public_path": "./public",
+    "templates_path": "./templates",
+    "images_path": "./public/images/photos",
+    "thumbnails_path": "./public/images/thumbnails",
+    "thumbnail_height": 160,
+    "title": "3D CoMPaT Mini-Dataset Browser",
+    "description": "Rendered Images to Verify Quality of Dataset.",
+    "background_photo": "cde04b8d-7d31-4394-a1c4-c9a8138a63e3_866018_1.png",
+    "url": "",
+    "background_photo_offset": 30,
+    "disable_captions": false
+}
