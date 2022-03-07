@@ -1,9 +1,9 @@
 {
     "images_data_file": "./images_data.json",
-    "public_path": "./public",
+    "public_path": "./docs",
     "templates_path": "./templates",
-    "images_path": "./public/images/photos",
-    "thumbnails_path": "./public/images/thumbnails",
+    "images_path": "./docs/images/photos",
+    "thumbnails_path": "./docs/images/thumbnails",
     "thumbnail_height": 160,
     "title": "3D CoMPaT Mini-Dataset Browser",
     "description": "Rendered Images to Verify Quality of Dataset.",
